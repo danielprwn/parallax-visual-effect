@@ -1,5 +1,6 @@
 # parallax-visual-effect
-Parallax scrolling visual web pages effect HTML/CSS 
+
+Parallax scrolling visual web pages effect HTML/CSS and JQuery. 
 
 
 Web screenshots:
